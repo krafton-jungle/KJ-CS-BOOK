@@ -10,6 +10,7 @@
 - [#7 링커](/docs/ch7_linking/README.md)
     - [링커 오류 실습](/docs/ch7_linking/linker_error.md)
 - [#8 예외적인 제어흐름](/docs/ch8_excption/README.md)
+  - [8.2 프로세스(Processes)](docs/ch8_excption/8_2_processes.md)
 - [#9-A 가상 메모리](/docs/ch9_a_vm/README.md)
 - [#9-B 동적 메모리 할당 & 오류 처리](/docs/ch9_b_garbage_collection/README.md)
 - [#10 시스템 수준 I/O](/docs/ch10_io/README.md)
